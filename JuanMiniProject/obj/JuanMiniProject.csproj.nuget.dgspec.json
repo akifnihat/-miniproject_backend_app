@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\JuanMiniProject.csproj": {}
+    "C:\\Users\\akifst\\source\\repos\\clone\\JuanMiniProject\\JuanMiniProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\JuanMiniProject.csproj": {
+    "C:\\Users\\akifst\\source\\repos\\clone\\JuanMiniProject\\JuanMiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\JuanMiniProject.csproj",
+        "projectUniqueName": "C:\\Users\\akifst\\source\\repos\\clone\\JuanMiniProject\\JuanMiniProject.csproj",
         "projectName": "JuanMiniProject",
-        "projectPath": "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\JuanMiniProject.csproj",
+        "projectPath": "C:\\Users\\akifst\\source\\repos\\clone\\JuanMiniProject\\JuanMiniProject.csproj",
         "packagesPath": "C:\\Users\\akifst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\obj\\",
+        "outputPath": "C:\\Users\\akifst\\source\\repos\\clone\\JuanMiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

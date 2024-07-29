@@ -4022,11 +4022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akifst\\Source\\Repos\\-miniproject_backend_app\\JuanMiniProject\\JuanMiniProject.csproj",
+      "projectUniqueName": "C:\\Users\\akifst\\Source\\Repos\\clone\\JuanMiniProject\\JuanMiniProject.csproj",
       "projectName": "JuanMiniProject",
-      "projectPath": "C:\\Users\\akifst\\Source\\Repos\\-miniproject_backend_app\\JuanMiniProject\\JuanMiniProject.csproj",
+      "projectPath": "C:\\Users\\akifst\\Source\\Repos\\clone\\JuanMiniProject\\JuanMiniProject.csproj",
       "packagesPath": "C:\\Users\\akifst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akifst\\Source\\Repos\\-miniproject_backend_app\\JuanMiniProject\\obj\\",
+      "outputPath": "C:\\Users\\akifst\\Source\\Repos\\clone\\JuanMiniProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HkSpvPkmOS2bwqEHlRughFrHP1PCZRdTZaTjnNELmEYNoKbtaPXHrekOuMzm/cWp2GTvbZfePLkJhFwQjomy2w==",
+  "dgSpecHash": "g+bjbpXFdeyUrBGs3h0KCza8IssFoD/FOIcY+5/Y0k6OiNfBwxE5Zoa2Q/duF95F1i+EPslC/Lqz5M7ylAM6UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\JuanMiniProject.csproj",
+  "projectFilePath": "C:\\Users\\akifst\\source\\repos\\clone\\JuanMiniProject\\JuanMiniProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akifst\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\akifst\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
