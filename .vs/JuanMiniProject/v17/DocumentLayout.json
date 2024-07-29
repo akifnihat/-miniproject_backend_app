@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\akifst\\source\\repos\\JuanMiniProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3D0DCA-FBCF-402B-AF97-D26481CB0258}|JuanMiniProject\\JuanMiniProject.csproj|c:\\users\\akifst\\source\\repos\\-miniproject_backend_app\\juanminiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3D0DCA-FBCF-402B-AF97-D26481CB0258}|JuanMiniProject\\JuanMiniProject.csproj|solutionrelative:juanminiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JuanMiniProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\akifst\\source\\repos\\-miniproject_backend_app\\JuanMiniProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JuanMiniProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:34:55.854Z",
+              "EditorCaption": ""
             }
           ]
         }
